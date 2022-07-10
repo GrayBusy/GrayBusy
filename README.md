@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gray</h1>
 <p align="left"></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arafbusy&label=Profile%20views&color=red&style=flat" alt="graybusy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GrayBusy&label=Profile%20views&color=red&style=flat" alt="graybusy" /> </p>
 
 - Front-End Web Developer
 - FiveM Developer
